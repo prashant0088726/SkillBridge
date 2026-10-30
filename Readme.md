@@ -324,11 +324,11 @@ You can create a new account in 5 seconds via the Registration page, or use the 
 
 ## 👨‍💻 Author & Engineering Credits
 
-### Pradip Lalmani Yadav
-**B.E. Computer Engineering | Java Backend Developer**  
-* GitHub: [pradipyadav18](https://github.com/pradipyadav18)  
-* LinkedIn: [Pradip Yadav](https://www.linkedin.com/in/pradip-yadav09/)  
-* LeetCode: [Pradip Yadav](https://leetcode.com/u/pradip_yadav_15/)  
+### PRASHANT SINGH
+**M.C.A | VIT VELLORE | Java Backend Developer**  
+* GitHub: [prashant0088726](https://github.com/prashant0088726)  
+* LinkedIn: [Prashant singh](https://www.linkedin.com/in/prashant-singh-77a839206/)  
+* LeetCode: [Prashant singh](https://leetcode.com/u/prashant8630/)  
 
 ---
 
